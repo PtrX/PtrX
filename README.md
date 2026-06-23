@@ -12,6 +12,18 @@ My projects usually sit at the intersection of:
 
 ## Selected Public Work
 
+### [Home Energy Forecaster](https://github.com/PtrX/home-energy-forecaster)
+
+A standalone Python/FastAPI service that forecasts PV production, household load, and EV-charging surplus from InfluxDB telemetry and Open-Meteo weather data.
+
+**Focus:** energy forecasting, local telemetry, ML pipelines, public-safe extraction from private infrastructure.
+
+### [WM 2026 Dashboard](https://github.com/PtrX/wm-forecast)
+
+A Next.js dashboard for the FIFA World Cup 2026 with schedule, standings, live-style sections, and forecast probabilities.
+
+**Focus:** dashboard UX, TypeScript, resilient data fallbacks, forecast communication.
+
 ### [Blockzilla II Promo Site](https://github.com/PtrX/blogzilla-landingpage)
 
 A static promo site for a family-friendly animated story project, including character artwork, audio chapters, merchandise previews, and a playable browser game teaser.
@@ -35,9 +47,8 @@ A single-file browser tool for tracking EV inspection intervals, overdue mainten
 Some of my strongest projects are private because they connect to local infrastructure, accounts, production assets, or personal knowledge systems. They include:
 
 - An AI music factory for brief-to-song-to-video workflows
-- A smart-home hub for ioBroker, Proxmox, energy forecasting, and agent-assisted control
+- A smart-home hub for local device control and agent-assisted operations
 - A family command center for documents, tasks, calendar context, and local AI assistance
-- A World Cup 2026 dashboard with match data, forecasts, and broadcast-style UI
 - Media production pipelines for short-form video and YouTube publishing
 
 When a project becomes useful beyond my own environment, I extract a sanitized public version or publish the reusable lessons.
